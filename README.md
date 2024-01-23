@@ -1,10 +1,6 @@
 # 23-01-2024
 WS23/24 - I/O Streams
 
-# 24-01-2023
-WS22 - IO und Exceptions
-
-
 
 ### 📝 Aufgabe:
 Die Datei im Projekt unter ```"files/faust.txt"``` beinhaltet  Göthes Faust als txt-Datei.
